@@ -1,3 +1,3 @@
 Atomic Games
 
-[Cookie clicker](atomic12321.github.io/cookieclicker)
+[Cookie clicker](github.io/atomic12321/cookieclicker/tree/main)
