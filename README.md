@@ -1,5 +1,5 @@
 Atomic Games
 
-[Cookie clicker](github.io/atomic12321/cookieclicker/tree/main)
+[Cookie clicker](https://atomic12321.github.io/cookieclicker/)
 
-[Visit Google](https://www.google.com)
+
